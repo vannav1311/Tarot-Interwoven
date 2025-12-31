@@ -1,0 +1,408 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eb6318586f225c49973b64091c7d197, type: 3}
+  m_Name: CardDatabase
+  m_EditorClassIdentifier: 
+  cardsSprite:
+  - {fileID: 7118119931372058214, guid: d52a3a5db188de747b6d07f11d5271be, type: 3}
+  - {fileID: -8099757977945522322, guid: 55f17966c5f11fe4d906358fead74f85, type: 3}
+  - {fileID: 8513864551161586972, guid: 84e2a08c44ea04c499f20f55831ce2bc, type: 3}
+  - {fileID: -4437055536405430010, guid: 5630895363d1999448e474a4796aa295, type: 3}
+  - {fileID: 5487066066252357887, guid: 379c7cdfd7143574192b1bdf55d9998b, type: 3}
+  - {fileID: -389352346070111247, guid: 735509378129ad744a11916a49a0edc6, type: 3}
+  - {fileID: 5989111113512756918, guid: 25f77eb6edbe57d448d9cd1eb18d620b, type: 3}
+  - {fileID: -3680098549373719291, guid: a9e3f7a1c4674d94d8aec149af272b7c, type: 3}
+  - {fileID: -3563954503539301426, guid: 1abe5c88b105c20419fbf4ebf083b37f, type: 3}
+  - {fileID: -4498746502547259126, guid: f1aa3c12052c402479331703ebdc998b, type: 3}
+  - {fileID: -3649475746404506404, guid: 052a3814a44db7a42ae0c3de4f582c49, type: 3}
+  - {fileID: 2575483952644320277, guid: cd868afea39f10040a6f589b57b85442, type: 3}
+  - {fileID: 5671888461661558149, guid: d6ba03a563e17ab498295f0e7a61a0a2, type: 3}
+  - {fileID: 7891368504688871608, guid: 6532da4c53dfb2842ac30c539025c5cb, type: 3}
+  - {fileID: -2280275707142789529, guid: 7a2fc454f03f9ea4caf32a5df63e49fd, type: 3}
+  - {fileID: 6547406653191118924, guid: 3fb2ace930d901147a02ead4e0d4699f, type: 3}
+  - {fileID: -2595648372497201109, guid: 021437e3581af1148a0f6490ab79ee82, type: 3}
+  - {fileID: -920592660377600258, guid: 7a38e5fc0ee27ba48923e6a2ebce9d63, type: 3}
+  - {fileID: -5087012949920522289, guid: b24a69edf71fb734daf313022cb543c2, type: 3}
+  - {fileID: -6388395754760994975, guid: f18082a4514c0cc42992d34988283f2e, type: 3}
+  - {fileID: -6684859209233067055, guid: 9e942c758ff04a345b1eb1a6510369b1, type: 3}
+  - {fileID: -1744741172145813702, guid: 49a21be3f12d97548963385c7f2d03d1, type: 3}
+  - {fileID: 8528872418362396583, guid: 0d912f5963905eb4f8996b9552b28b4a, type: 3}
+  - {fileID: 5513250350842235795, guid: 7967b51dcf448c147b658765b791ab5f, type: 3}
+  - {fileID: -760348833583393526, guid: ec5202af3e6ee6149aed473cd9bd9e30, type: 3}
+  - {fileID: -7372787303707300684, guid: 1c64e89759105ec4997b28139ecbd4af, type: 3}
+  - {fileID: 5550749028425310509, guid: 9e683a35c2785514f92bc1d6060dbd40, type: 3}
+  - {fileID: 5652358778095014124, guid: 74d75a91fc68c9a4ea64c4ee27c66b15, type: 3}
+  - {fileID: -4144894908264012536, guid: 93cf2389bb6dbb54eb3fd45d08a138c1, type: 3}
+  - {fileID: 8439205972402832423, guid: e3eab1ae551eb9449b088eb6b7ef985e, type: 3}
+  - {fileID: 8435944689521583611, guid: cb5e849a97f070b4cbdc5ce6dd9e27bc, type: 3}
+  - {fileID: -5820783455531916923, guid: 3c46707ae75d18643a9bd886c74ee109, type: 3}
+  - {fileID: 4377333687699900849, guid: 6a145eba79c845346ab8c91da604fc3a, type: 3}
+  - {fileID: 6972207896563300407, guid: 8f04c17b3949bd64580f481ee6e8c560, type: 3}
+  - {fileID: -1578352582704149209, guid: 6f93308d0b1704448b2a431466adcf48, type: 3}
+  - {fileID: -8079579115278018339, guid: 364b8f72e2efb1a4b9354482467d5fec, type: 3}
+  - {fileID: 117761876563797484, guid: 50155571dfe18f94abaf9caa64e7fb84, type: 3}
+  - {fileID: 1641447721515475057, guid: ac12c46cb37ff0245997726f5c85b2c0, type: 3}
+  - {fileID: -2726834051247203963, guid: 790d125207ae6ac469a4b122e8465389, type: 3}
+  - {fileID: 3950774896920288840, guid: fdbbf8b45b0321c4d9df88d959350d39, type: 3}
+  - {fileID: -1086861625445285733, guid: 8646f5c6a82ed4649956100db320a589, type: 3}
+  - {fileID: 8588927027963114882, guid: b5b40ab9d0c5be84d9e8b00acff7b50d, type: 3}
+  - {fileID: -7742275664980582698, guid: dd576b68ad550764abaef38ffc46340e, type: 3}
+  - {fileID: -2776387406236290056, guid: af8d2f2dad7afb44898c032d9a44e69f, type: 3}
+  - {fileID: 7770318446589185493, guid: d5a7fe1e8d34bac48bb80bbb540eec04, type: 3}
+  - {fileID: -6784300594157299055, guid: 3c49fc83536fcbc499430f1fccdbe41a, type: 3}
+  - {fileID: -5686458507934509102, guid: adf06306790d3284780ed7af85f1cf70, type: 3}
+  - {fileID: 1329901128650732366, guid: c742389d14e293b44a2482625720c786, type: 3}
+  - {fileID: -3971537302590002909, guid: 004b445ca606df549a39e71a31e712ac, type: 3}
+  - {fileID: -5748732527772774145, guid: d41f85ae9c5aa3647b461991f63835c7, type: 3}
+  - {fileID: -166943403291717331, guid: 8899fb528ec65ef4485c51fbf199a9df, type: 3}
+  - {fileID: -4479686640288620161, guid: 8a29aa394fefea54089569e24db9dbe1, type: 3}
+  - {fileID: 3085373010807725979, guid: 3f04def5760b1e94c9fc4844ced56345, type: 3}
+  - {fileID: -3163485252544545974, guid: 874cf37730b10a04fbc7ab4bc4e5d06a, type: 3}
+  - {fileID: 3192677104459605372, guid: a5f9f77b622a76046b1db3cb417953dc, type: 3}
+  - {fileID: -4881219126033852157, guid: edc7650920874b649b7ae5f3e66b660f, type: 3}
+  cards:
+  - name: Ace of Swords_0
+    value: 1
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: 7118119931372058214, guid: d52a3a5db188de747b6d07f11d5271be, type: 3}
+  - name: Two of Swords_0
+    value: 2
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: -8099757977945522322, guid: 55f17966c5f11fe4d906358fead74f85, type: 3}
+  - name: Three of Swords_0
+    value: 3
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: 8513864551161586972, guid: 84e2a08c44ea04c499f20f55831ce2bc, type: 3}
+  - name: Four of Swords_0
+    value: 4
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: -4437055536405430010, guid: 5630895363d1999448e474a4796aa295, type: 3}
+  - name: Five of Swords_0
+    value: 5
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: 5487066066252357887, guid: 379c7cdfd7143574192b1bdf55d9998b, type: 3}
+  - name: Six of Swords_0
+    value: 6
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: -389352346070111247, guid: 735509378129ad744a11916a49a0edc6, type: 3}
+  - name: Seven of Swords_0
+    value: 7
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: 5989111113512756918, guid: 25f77eb6edbe57d448d9cd1eb18d620b, type: 3}
+  - name: Eight of Swords_0
+    value: 8
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: -3680098549373719291, guid: a9e3f7a1c4674d94d8aec149af272b7c, type: 3}
+  - name: Nine of Swords_0
+    value: 9
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: -3563954503539301426, guid: 1abe5c88b105c20419fbf4ebf083b37f, type: 3}
+  - name: Ten of Swords_0
+    value: 10
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: -4498746502547259126, guid: f1aa3c12052c402479331703ebdc998b, type: 3}
+  - name: Page of Swords_0
+    value: 11
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: -3649475746404506404, guid: 052a3814a44db7a42ae0c3de4f582c49, type: 3}
+  - name: Knight of Swords_0
+    value: 12
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: 2575483952644320277, guid: cd868afea39f10040a6f589b57b85442, type: 3}
+  - name: Queen of Swords_0
+    value: 13
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: 5671888461661558149, guid: d6ba03a563e17ab498295f0e7a61a0a2, type: 3}
+  - name: King of Swords_0
+    value: 14
+    type: 1
+    inCombo: 0
+    where: 0
+    image: {fileID: 7891368504688871608, guid: 6532da4c53dfb2842ac30c539025c5cb, type: 3}
+  - name: Ace of Cups_0
+    value: 1
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: -2280275707142789529, guid: 7a2fc454f03f9ea4caf32a5df63e49fd, type: 3}
+  - name: Two of Cups_0
+    value: 2
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: 6547406653191118924, guid: 3fb2ace930d901147a02ead4e0d4699f, type: 3}
+  - name: Three of Cups_0
+    value: 3
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: -2595648372497201109, guid: 021437e3581af1148a0f6490ab79ee82, type: 3}
+  - name: Four of Cups_0
+    value: 4
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: -920592660377600258, guid: 7a38e5fc0ee27ba48923e6a2ebce9d63, type: 3}
+  - name: Five of Cups_0
+    value: 5
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: -5087012949920522289, guid: b24a69edf71fb734daf313022cb543c2, type: 3}
+  - name: Six of Cups_0
+    value: 6
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: -6388395754760994975, guid: f18082a4514c0cc42992d34988283f2e, type: 3}
+  - name: Seven of Cups_0
+    value: 7
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: -6684859209233067055, guid: 9e942c758ff04a345b1eb1a6510369b1, type: 3}
+  - name: Eight of Cups_0
+    value: 8
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: -1744741172145813702, guid: 49a21be3f12d97548963385c7f2d03d1, type: 3}
+  - name: Nine of Cups_0
+    value: 9
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: 8528872418362396583, guid: 0d912f5963905eb4f8996b9552b28b4a, type: 3}
+  - name: Ten of Cups_0
+    value: 10
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: 5513250350842235795, guid: 7967b51dcf448c147b658765b791ab5f, type: 3}
+  - name: Page of Cups_0
+    value: 11
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: -760348833583393526, guid: ec5202af3e6ee6149aed473cd9bd9e30, type: 3}
+  - name: Knight of Cups_0
+    value: 12
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: -7372787303707300684, guid: 1c64e89759105ec4997b28139ecbd4af, type: 3}
+  - name: Queen of Cups_0
+    value: 13
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: 5550749028425310509, guid: 9e683a35c2785514f92bc1d6060dbd40, type: 3}
+  - name: King of Cups_0
+    value: 14
+    type: 2
+    inCombo: 0
+    where: 0
+    image: {fileID: 5652358778095014124, guid: 74d75a91fc68c9a4ea64c4ee27c66b15, type: 3}
+  - name: Ace of Wands_0
+    value: 1
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: -4144894908264012536, guid: 93cf2389bb6dbb54eb3fd45d08a138c1, type: 3}
+  - name: Two of Wands_0
+    value: 2
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: 8439205972402832423, guid: e3eab1ae551eb9449b088eb6b7ef985e, type: 3}
+  - name: Three of Wands_0
+    value: 3
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: 8435944689521583611, guid: cb5e849a97f070b4cbdc5ce6dd9e27bc, type: 3}
+  - name: Four of Wands_0
+    value: 4
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: -5820783455531916923, guid: 3c46707ae75d18643a9bd886c74ee109, type: 3}
+  - name: Five of Wands_0
+    value: 5
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: 4377333687699900849, guid: 6a145eba79c845346ab8c91da604fc3a, type: 3}
+  - name: Six of Wands_0
+    value: 6
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: 6972207896563300407, guid: 8f04c17b3949bd64580f481ee6e8c560, type: 3}
+  - name: Seven of Wands_0
+    value: 7
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: -1578352582704149209, guid: 6f93308d0b1704448b2a431466adcf48, type: 3}
+  - name: Eight of Wands_0
+    value: 8
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: -8079579115278018339, guid: 364b8f72e2efb1a4b9354482467d5fec, type: 3}
+  - name: Nine of Wands_0
+    value: 9
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: 117761876563797484, guid: 50155571dfe18f94abaf9caa64e7fb84, type: 3}
+  - name: Ten of Wands_0
+    value: 10
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: 1641447721515475057, guid: ac12c46cb37ff0245997726f5c85b2c0, type: 3}
+  - name: Page of Wands_0
+    value: 11
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: -2726834051247203963, guid: 790d125207ae6ac469a4b122e8465389, type: 3}
+  - name: Knight of Wands_0
+    value: 12
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: 3950774896920288840, guid: fdbbf8b45b0321c4d9df88d959350d39, type: 3}
+  - name: Queen of Wands_0
+    value: 13
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: -1086861625445285733, guid: 8646f5c6a82ed4649956100db320a589, type: 3}
+  - name: King of Wands_0
+    value: 14
+    type: 3
+    inCombo: 0
+    where: 0
+    image: {fileID: 8588927027963114882, guid: b5b40ab9d0c5be84d9e8b00acff7b50d, type: 3}
+  - name: Ace of Pentacles_0
+    value: 1
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: -7742275664980582698, guid: dd576b68ad550764abaef38ffc46340e, type: 3}
+  - name: Two of Pentacles_0
+    value: 2
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: -2776387406236290056, guid: af8d2f2dad7afb44898c032d9a44e69f, type: 3}
+  - name: Three of Pentacles_0
+    value: 3
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: 7770318446589185493, guid: d5a7fe1e8d34bac48bb80bbb540eec04, type: 3}
+  - name: Four of Pentacles_0
+    value: 4
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: -6784300594157299055, guid: 3c49fc83536fcbc499430f1fccdbe41a, type: 3}
+  - name: Five of Pentacles_0
+    value: 5
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: -5686458507934509102, guid: adf06306790d3284780ed7af85f1cf70, type: 3}
+  - name: Six of Pentacles_0
+    value: 6
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: 1329901128650732366, guid: c742389d14e293b44a2482625720c786, type: 3}
+  - name: Seven of Pentacles_0
+    value: 7
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: -3971537302590002909, guid: 004b445ca606df549a39e71a31e712ac, type: 3}
+  - name: Eight of Pentacles_0
+    value: 8
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: -5748732527772774145, guid: d41f85ae9c5aa3647b461991f63835c7, type: 3}
+  - name: Nine of Pentacles_0
+    value: 9
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: -166943403291717331, guid: 8899fb528ec65ef4485c51fbf199a9df, type: 3}
+  - name: Ten of Pentacles_0
+    value: 10
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: -4479686640288620161, guid: 8a29aa394fefea54089569e24db9dbe1, type: 3}
+  - name: Page of Pentacles_0
+    value: 11
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: 3085373010807725979, guid: 3f04def5760b1e94c9fc4844ced56345, type: 3}
+  - name: Knight of Pentacles_0
+    value: 12
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: -3163485252544545974, guid: 874cf37730b10a04fbc7ab4bc4e5d06a, type: 3}
+  - name: Queen of Pentacles_0
+    value: 13
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: 3192677104459605372, guid: a5f9f77b622a76046b1db3cb417953dc, type: 3}
+  - name: King of Pentacles_0
+    value: 14
+    type: 4
+    inCombo: 0
+    where: 0
+    image: {fileID: -4881219126033852157, guid: edc7650920874b649b7ae5f3e66b660f, type: 3}
